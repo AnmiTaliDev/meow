@@ -1,0 +1,8 @@
+[package]
+name = "meow"
+version = "0.1.0"
+edition = "2021"
+description = "An enhanced cat utility written in Rust"
+
+[dependencies]
+atty = "0.2"
